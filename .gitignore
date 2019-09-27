@@ -84,6 +84,8 @@ $RECYCLE.BIN/
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+=======
+>>>>>>> 5ef0d4421548dbc73f53a0f342e4543ea915cb90
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -96,6 +98,7 @@ bld/
 [Oo]bj/
 [Ll]og/
 
+<<<<<<< HEAD
 # Visual Studio 2015/2017 cache/options directory
 .vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
